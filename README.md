@@ -1,7 +1,3 @@
-Here’s a README.md file along with a short description for your GitHub repository:
-
----
-
 # Flask Google OAuth Authentication
 
 This Flask application integrates Google OAuth for user authentication. It allows users to log in with their Google accounts, access a protected dashboard, and manage sessions securely. The app uses `Authlib` and `dotenv` for OAuth and environment management.
