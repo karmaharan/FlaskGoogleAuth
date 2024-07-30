@@ -32,7 +32,6 @@ This Flask application integrates Google OAuth for user authentication. It allow
 4. **Create a `.env` file with the following content:**
 
    ```env
-   SECRET_KEY=your_secret_key
    GOOGLE_CLIENT_ID=your_google_client_id
    GOOGLE_CLIENT_SECRET=your_google_client_secret
    ```
